@@ -6,7 +6,7 @@
   <img align="left" alt="Saravanan Vijayamuthu | Discord" width="22px" src="https://github.com/Adithya-adi-Menon/Hosting/blob/master/assets/discord.svg" />
 </a>
 <a href="https://app.hackthebox.com/users/562216">
-  <img align="left" alt="Saravanan Vijayamuthu | HTB" width="22px" src="https://account.hackthebox.com/storage/users/c94b9990-457b-4d87-9810-5cd0fa1feba2-avatar.png" />
+  <img align="left" alt="Saravanan Vijayamuthu | HTB" width="22px" src="https://yt3.googleusercontent.com/2Tq9apgiHSV7NrCKzgRMbm-AABWJJXuyWMY_7MpQlVdvemqJRWcGegVq0G4e9xHCl8HcbQs_Ag=s900-c-k-c0x00ffffff-no-rj" />
 </a>
 <a href="https://www.linkedin.com/in/saravanan-vm">
   <img align="left" alt="Saravanan Vijayamuthu | LinkedIN" width="22px" src="https://github.com/Adithya-adi-Menon/Hosting/blob/master/assets/linkedin.svg" />
